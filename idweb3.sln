@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "idweb3.Client", "idweb3\Cli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "idweb3.Shared", "idweb3\Shared\idweb3.Shared.csproj", "{EF2B4E77-45DA-4804-969A-D5D95697AD60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0CFF8F6B-B152-46D0-9810-42C17118EF60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "Tests\UnitTests.csproj", "{0CFF8F6B-B152-46D0-9810-42C17118EF60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
